@@ -1,0 +1,16 @@
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\bin\Debug\pr11.exe.config
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\bin\Debug\pr11.exe
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\bin\Debug\pr11.pdb
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11.csproj.AssemblyReference.cache
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11.csproj.SuggestedBindingRedirects.cache
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\MainWindow.g.cs
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\App.g.cs
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11_MarkupCompile.cache
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11_MarkupCompile.lref
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\MainWindow.baml
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11.g.resources
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11.Properties.Resources.resources
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11.csproj.GenerateResource.cache
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11.csproj.CoreCompileInputs.cache
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11.exe
+C:\Users\valiakhmetov.ra0821\Desktop\pr11\pr11\obj\Debug\pr11.pdb
